@@ -37,9 +37,7 @@ Hospitals struggled with:
 - **Infrastructure / Deployment:** AWS EC2, S3, RDS  
 - **CI/CD:** Docker, GitHub Actions  
 
-> ![Architecture Diagram](diagrams/architecture.png)  
-> *Placeholder for system architecture diagram*
-
+ 
 ---
 
 ## Key Achievements
